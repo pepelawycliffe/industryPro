@@ -29,7 +29,7 @@ and much more…<br>
 
 ............................................screenshot..............................................
 
-<img src="https://github.com/pepelawycliffe/industryPro/blob/main/industrypro_screenshots/Screenshot%20(1).jpg" width="600">
+<img src="https://github.com/pepelawycliffe/industryPro/blob/main/industrypro_screenshots/Screenshot%20(1).jpg" width="800">
 <img src="https://github.com/pepelawycliffe/industryPro/blob/main/industrypro_screenshots/Screenshot%20(2).jpg" width="400">
 <img src="https://github.com/pepelawycliffe/industryPro/blob/main/industrypro_screenshots/Screenshot%20(3).jpg" width="400">
 <img src="https://github.com/pepelawycliffe/industryPro/blob/main/industrypro_screenshots/Screenshot%20(4).jpg" width="400">
