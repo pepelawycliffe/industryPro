@@ -27,7 +27,7 @@ Change everything such as logo, site title, footer from admin panel.<br>
 Built in About Us, FAQ and Contact Us page.<br>
 and much more…<br>
 
-https://github.com/pepelawycliffe/industryPro/blob/main/indusrty.mp4
+https://github.com/pepelawycliffe/industryPro/blob/main/indusrty.mp4<br>
 ............................................screenshot..............................................
 
 <img src="https://github.com/pepelawycliffe/industryPro/blob/main/industrypro_screenshots/Screenshot%20(1).jpg" width="1000">
