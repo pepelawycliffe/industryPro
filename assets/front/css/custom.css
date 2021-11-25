@@ -1,0 +1,322 @@
+/*PAGINATION DESIGN*/
+
+.page-center ul.pagination li {
+    width: 35px;
+    height: 35px;
+    background: #ff55001a;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 35px;
+    margin: 0px 5px;
+    transition: all .3s;
+    display: inline-block;
+    color: #000;
+}
+
+.page-center ul.pagination li a:hover {
+    color: #000 !important;
+}
+
+.page-center ul.pagination {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.page-center ul.pagination li.active {
+    background: #ff5500;
+    color: #fff;
+    cursor: no-drop;
+}
+
+.page-center {
+    text-align: center;
+}
+
+/*PAGINATION DESIGN ENDS*/
+
+/*-------------------------
+    Preloader Css
+---------------------------*/
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  z-index: 9999999;
+ }
+/* PRELOADER CSS ENDS*/
+
+/* Page Disabled */
+    ul.pagination li.disabled {
+      cursor: no-drop;
+    }
+/* Page Disabled End */
+.feature-image img {
+  width: 100%;
+}
+.pointer {
+  cursor: pointer;
+}
+.gocover {
+    display:none;
+    position: absolute;
+    position: fixed; 
+    left: 0; 
+    top: 0; 
+    z-index: 999; 
+    width: 100%; 
+    height: 100%; 
+    overflow: visible;
+}
+
+.mybtn1.lg {
+  width: 200px;
+}
+
+
+/*---------------------------
+Faq Page Start
+-----------------------------*/
+.faq-section {
+  padding: 40px 0px 60px;
+  }
+
+.ui-accordion .ui-accordion-header {
+  padding: 16px 40px 16px !important;
+  margin-top: 20px !important;
+  color: #fff;
+  font-weight: 600;
+  border: 0px;
+  }
+  .ui-accordion .ui-accordion-header:focus {
+    outline: 0px;
+    border: 0px; }
+  .ui-accordion .ui-accordion-header .ui-icon {
+    display: none; }
+  .ui-accordion .ui-accordion-header::before {
+    position: absolute;
+    content: "\f128";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 700;
+    left: 15px;
+    }
+
+.ui-accordion .ui-widget-content {
+  border: 0px;
+  -webkit-box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.05); }
+
+  /*---------------------------
+Faq Page End
+-----------------------------*/
+
+/*====================
+ Thank you Area Start
+ =====================*/
+.thankyou {
+  padding: 100px 0px 100px; }
+  .thankyou .content {
+    background: #010860;
+    padding: 20px 30px 50px;
+    text-align: center;
+    }
+    .thankyou .content .icon {
+      font-size: 90px;
+      color: #ff5500; }
+    .thankyou .content .heading {
+      font-size: 28px;
+      line-height: 38px;
+      text-transform: uppercase;
+      color: #fff;
+      font-weight: 600; }
+    .thankyou .content .text {
+      color: #fff;
+      margin-bottom: 0px; }
+    .thankyou .content a.link {
+      color: #fff;
+      margin-top: 20px;
+      display: block;
+      text-decoration: underline;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 600; }
+
+
+.content-text {
+    font-size: 16px;
+    line-height: 36px;
+    -webkit-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in; 
+}
+.content-text li {
+  line-height: 2;
+}
+
+.order-details .pricing-plan .content  {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 0px;
+}
+
+.order-details .pricing-plan .content  span{
+    color: #fff !important;
+}
+
+.order-details .pricing-plan .content  li{
+    color: #fff !important;
+}
+
+/*====================
+ 404 Area Start
+ =====================*/
+.fourzerofour {
+  padding: 100px 0px 100px;
+  text-align: center; }
+  .fourzerofour .content {
+    text-align: center; }
+    .fourzerofour .content .heading {
+      font-size: 36px;
+      line-height: 46px;
+      font-weight: 700;
+      color: #28384f;
+      margin: 40px 0px 25px; }
+    .fourzerofour .content .text {
+      max-width: 450px;
+      display: block;
+      margin: 0 auto; }
+    .fourzerofour .content .mybtn1 {
+      margin-top: 28px;; }
+
+/*
+Select option style Start
+*/
+        .top-header .content .right-content .language-selector .language option{
+          color: #242424;
+        }
+      .top-header .content .right-content .currency-selector {
+        margin-right: 10px;
+        display: inline-block; }
+        .top-header .content .right-content .currency-selector i {
+          color: #fff;
+          font-size: 16px;
+          margin-top: 2px; }
+        .top-header .content .right-content .currency-selector .currency {
+          border: none;
+          color: #fff;
+          cursor: pointer;
+          background: none;
+          font-size: 14px; }
+.top-header .content .right-content .currency-selector .currency option{
+  color: #242424;
+}
+
+
+
+
+/*-------------------------------
+ Order Details Start
+--------------------------------*/
+.order-details {
+  padding: 100px 0px 100px; }
+  .order-details .order-details-box {
+    -webkit-box-shadow: 0px 7px 25px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 7px 25px rgba(0, 0, 0, 0.1);
+    border-radius: 30px 30px 30px 30px;
+    background: #fff;
+    }
+    .order-details .order-details-box .header {
+      background: #1242c9;
+      text-align: center;
+      padding: 30px 0px;
+      border-radius: 30px 30px 0px 0px; }
+      .order-details .order-details-box .header .title {
+        color: #fff;
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 0px; }
+    .order-details .order-details-box .content .patment-method {
+      width: 100%;
+      background: #1242c9;
+      height: 50px;
+      border: 0px;
+      border-radius: 50px;
+      padding: 0px 30px;
+      color: #fff;
+      margin-top: 20px; }
+    .order-details .order-details-box .content .btn-checkout {
+      border: 1px solid #1242c9;
+      background: none;
+      display: inline-block;
+      padding: 10px 40px;
+      margin-top: 30px;
+      border-radius: 50px;
+      color: #1242c9;
+      -webkit-transition: all 0.3s ease-in;
+      -o-transition: all 0.3s ease-in;
+      transition: all 0.3s ease-in; }
+      .order-details .order-details-box .content .btn-checkout:hover {
+        background: #1242c9;
+        color: #fff; }
+  .order-details .pricing-plan {
+    margin-top: 50px;
+    background: #1242c9;
+    border-radius: 20px; }
+    .order-details .pricing-plan .header-area {
+      padding: 21px 20px 26px;
+      border-bottom: 1px solid #fff;
+      text-align: center; }
+      .order-details .pricing-plan .header-area .title {
+        color: #fff;
+        font-size: 24px;
+        line-height: normal;
+        margin-bottom: 0px; }
+      .order-details .pricing-plan .header-area .sub-title {
+        color: #fff;
+        margin-bottom: 0px; }
+    .order-details .pricing-plan .pricing-area {
+      text-align: center;
+      padding: 12px 30px 5px; }
+      .order-details .pricing-plan .pricing-area p {
+        margin-bottom: 0px;
+        font-size: 50px;
+        color: #fff; }
+        .order-details .pricing-plan .pricing-area p sup {
+          font-size: 24px;
+          position: relative;
+          top: -25px; }
+        .order-details .pricing-plan .pricing-area p sub {
+          font-size: 16px;
+          position: relative;
+          bottom: 0px;
+          left: -6px; }
+    .order-details .pricing-plan .content {
+      padding: 0px 30px 30px;
+      text-align: center; }
+      .order-details .pricing-plan .content p {
+        color: #fff;
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 0px; }
+
+/*-------------------------------
+ Order Details End
+--------------------------------*/
+
+.content-text ol,.content-text ul {display: inline-block;}
+
+img.projectimg {
+  width: 100%;
+  height: auto;
+}
+
+.submit-address .mybtn1 {
+    margin-left: auto;
+}
+
+/*
+Select option style Start
+*/

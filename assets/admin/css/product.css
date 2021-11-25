@@ -1,0 +1,11 @@
+span.input-group-addon {
+    position: absolute;
+    right: 0;
+    top: 18px;
+    background: #ddd;
+    padding: 5px;
+    height: 70%;
+    width: 40px;
+    text-align: center;
+    line-height: 33px;
+}
